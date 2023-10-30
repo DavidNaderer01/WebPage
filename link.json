@@ -1,0 +1,21 @@
+{
+  "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/s-woegerbauer/",
+        "tags": [
+          "coding",
+          "git",
+          "cloud",
+          "school"
+        ]
+      },
+      {
+        "name": "Model",
+        "url": "https://github.com/s-woegerbauer/",
+        "tags": [
+          "school"
+        ]
+      }
+    ]
+}

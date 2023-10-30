@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.header {
+    width: 80%;
+    height: 4rem;
+    background-color: black;
+}
+
+.header a {
+    color: white;
+    margin-left: 2rem;
+    margin-top: 2.7rem;
+    font-size: 2rem;
+}
+
+.menu {
+    float: left;
+}
+
+.menu nav ul{
+    list-style: none;
+    display: flex;
+}
+
+.menu nav ul li {
+    padding: 1rem;
+}
+
+.menu nav ul li:hover, .menu nav ul li:hover .li-button {
+    background-color: #9d9d9d;
+}
+
+.menu nav ul li button {
+    border-style: none;
+    background-color: white;
+}
+
+#ul-output {
+    display: grid;
+    list-style: none;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+#ul-output li {
+    padding: 3rem;
+    color: white;
+    width: 6rem;
+    height: 4rem;
+    background-color: grey;
+    margin: 3rem;
+}
+
+#ul-output li a {
+    font-size: 1.5rem;
+    color: white;
+    top: 0;
+}
