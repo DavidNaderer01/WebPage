@@ -1,5 +1,3 @@
-
-
 function Sort(content) {
     let list = "";
     fetch("link.json")

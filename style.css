@@ -87,3 +87,21 @@
 .hour table thead tr th:hover ~ td {
     background-color: #9d9d9d;
 }
+
+input {
+    background-color: transparent;
+    float: right;
+    width: 20%;
+    height: 1.4rem;
+    margin-right: 2rem;
+    margin-top: 1.2rem;
+    border: none;
+    border-radius: 3px;
+}
+
+input:focus {
+    background-color: white;
+    border: none;
+    color: black;
+    outline: none;
+}
