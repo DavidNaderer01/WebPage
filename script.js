@@ -1,5 +1,7 @@
+
+
 function Sort(content) {
-    var list = "";
+    let list = "";
     fetch("link.json")
         .then(response => response.json())
         .then(data => {
