@@ -2,7 +2,7 @@
   "links": [
       {
         "name": "Github",
-        "url": "https://github.com/s-woegerbauer/",
+        "url": "https://github.com/DavidNaderer01/",
         "tags": [
           "coding",
           "git",
@@ -12,9 +12,23 @@
       },
       {
         "name": "Model",
-        "url": "https://github.com/s-woegerbauer/",
+        "url": "https://edufs.edu.htl-leonding.ac.at/",
         "tags": [
           "school"
+        ]
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/",
+        "tags": [
+          "coding"
+        ]
+      },
+      {
+        "name": "chess",
+        "url": "https://www.chess.com/home",
+        "tags": [
+          "game"
         ]
       }
     ]
