@@ -8,33 +8,9 @@
 </head>
 <body>
     <div class="header">
-        <a href="/">Logo</a>
+        <a href="/index.html">Logo</a>
         <input type="text" placeholder="Search" id="input">
         <script src="index.js"></script>
-    </div>
-    <div class="hour">
-        <table>
-            <thead>
-                <tr>
-                    <th>Hour</th>
-                    <th>Monday</th>
-                    <th>Tuesday</th>
-                    <th>Wednesday</th>
-                    <th>Thursday</th>
-                    <th>Friday</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>1</td>
-                    <td>1</td>
-                    <td>1</td>
-                    <td>1</td>
-                    <td>1</td>
-                </tr>
-            </tbody>
-        </table>
     </div>
     <div class="menu">
         <nav>
@@ -42,9 +18,12 @@
                 <li onclick="Sort('coding')"><button class="li-button">Coding</button></li>
                 <li onclick="Sort('school')"><button class="li-button">School</button></li>
                 <li onclick="Sort('game')"><button class="li-button">Game</button></li>
+                <li onclick="Sort('extra')"><button class="li-button">Extra</button></li>
             </ul>
         </nav>
         <ul id="ul-output"></ul>
+        <myElement>
+        </myElement>
     </div>
 </body>
 </html>

@@ -21,7 +21,7 @@
         "name": "Youtube",
         "url": "https://www.youtube.com/",
         "tags": [
-          "coding"
+          "coding", "extra"
         ]
       },
       {
@@ -29,6 +29,20 @@
         "url": "https://www.chess.com/home",
         "tags": [
           "game"
+        ]
+      },
+      {
+        "name": "Advent of code",
+        "url": "https://adventofcode.com/2022",
+        "tags": [
+          "game", "coding"
+        ]
+      },
+      {
+        "name": "Chat GPT",
+        "url": "https://chat.openai.com/",
+        "tags": [
+          "coding", "school"
         ]
       }
     ]
